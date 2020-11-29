@@ -19,11 +19,6 @@ class App extends React.Component {
           <Item name="Orange" price="0.89"/>
       </ul>
     </div>);
-      <li>Item One</li>
-      <li>Item Two</li>
-      </ul>
-    </div>
-    );
   }
  }
  export default App;
