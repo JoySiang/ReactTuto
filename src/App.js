@@ -12,7 +12,7 @@ class Item extends React.Component{
 class App extends React.Component {
   state = {
     items:[
-      {id:1, name:'Apple', price:0.99},
+      {id:1, name:'Apple', price:0.95},
       {id:2, name:'Orange', price:0.89},
     ]
   }
